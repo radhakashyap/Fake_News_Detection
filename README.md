@@ -1,4 +1,4 @@
-# Fake_News_Detection
+# Fake News Detection
 
 This project deals with Fake and Real news.
 Using sklearn,we build TfidfVectorizer on dataset.
